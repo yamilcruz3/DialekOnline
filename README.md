@@ -1,4 +1,4 @@
 # DialekOnline
 
 
-THis is the repository for DialekOnline Webpage
+This is the repository for DialekOnline Webpage
